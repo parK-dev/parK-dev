@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parK-dev
-- 👀 I’m interested in languages, programming, and gaming.
+- 👀 I’m interested in fighting sports, programming, and gaming.
 - 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on anything that will make me a better developper and get me my first SE job.
 
